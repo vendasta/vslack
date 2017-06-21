@@ -21,9 +21,8 @@ setup(
     name="vslack",
     version=version,
     packages=["vslack"],
-    url="https://github.com/vendasta/VA-vslack.git",
+    url="https://github.com/vendasta/vslack.git",
     description="Vendasta's open source Slack library that makes dealing with incoming webhooks much easier",
-    long_description=read("../README.rst"),
     package_data={
         'vslack': ['VERSION', 'README.md']
     },
