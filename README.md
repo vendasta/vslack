@@ -3,6 +3,12 @@ vSlack [![Build Status](https://travis-ci.org/vendasta/vslack.svg?branch=master)
 
 vSlack makes it easy to notify Slack with Incoming Webhooks!
 
+## Installation
+
+Install vslack using pip! 
+
+`pip install vslack`
+
 ## Usage
 
 vSlack is really simple to use. Just import it like you would any other Python library and fire off some messages!
