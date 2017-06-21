@@ -24,7 +24,7 @@ setup(
     url="https://github.com/vendasta/vslack.git",
     description="Vendasta's open source Slack library that makes dealing with incoming webhooks much easier",
     package_data={
-        'vslack': ['VERSION', 'README.md']
+        'vslack': ['VERSION', 'README.md', 'LICENSE']
     },
     license='apache2',
     author='Vendasta Technologies',

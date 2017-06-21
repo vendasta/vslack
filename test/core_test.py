@@ -1,6 +1,8 @@
 """ core_test.py """
 
 import unittest
+import sys
+sys.path.append('../src/vslack')
 
 from vslack import VSlack
 
