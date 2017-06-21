@@ -43,6 +43,9 @@ since you can override the name and icon anyway :smile: You can create one of th
 That link should direct you to your Organization if you're already logged in.
 
 ### Changelog
+1.3.1
+- No changes, just marking first Travis-based deploy.
+
 1.3.0
 - Add title and text to attachment.
 
