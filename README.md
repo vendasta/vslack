@@ -1,4 +1,4 @@
-vSlack
+vSlack [![Build Status](https://travis-ci.org/vendasta/vslack.svg?branch=master)](https://travis-ci.org/vendasta/vslack)
 ======
 
 vSlack makes it easy to notify Slack with Incoming Webhooks!
