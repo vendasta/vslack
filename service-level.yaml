@@ -1,0 +1,5 @@
+services:
+ - name: vslack
+   language: python
+   owner: no-owner
+   nonServiceType: library
